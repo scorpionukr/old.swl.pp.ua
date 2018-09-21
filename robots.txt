@@ -1,0 +1,8 @@
+Host: swl.pp.ua
+
+User-agent: *
+Disallow: /cgi-bin
+
+User-agent: Yandex
+Allow: /
+Sitemap: http://swl.pp.ua/sitemap.xml
